@@ -1,0 +1,8 @@
+# Set of commands that require an extra layer of security
+flagged-commands:
+- pex
+- op
+- deop
+
+# Secret code will be generated here at first startup
+secret-code: ~
